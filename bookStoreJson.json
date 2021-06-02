@@ -5,105 +5,105 @@
       "name": "A Teaspoon",
       "author": "Dina",
       "price": "600",
-      "image": "http://localhost:8090/book1.jpg"
+      "image": "book1.jpg"
     },
     {
       "id": 2,
       "name": "The Gold Fish",
       "author": "Donna",
       "price": "496",
-      "image": "http://localhost:8090/book2.jpg"
+      "image": "book2.jpg"
     },
     {
       "id": 3,
       "name": "Crow Moon",
       "author": "Anna",
       "price": "687",
-      "image": "http://localhost:8090/book3.jpg"
+      "image": "book3.jpg"
     },
     {
       "id": 4,
       "name": "Girl on Train",
       "author": "Paula",
       "price": "578",
-      "image": "http://localhost:8090/book4.jpg"
+      "image": "book4.jpg"
     },
     {
       "id": 5,
       "name": "Tangled",
       "author": "Disney",
       "price": "684",
-      "image": "http://localhost:8090/book5.jpg"
+      "image": "book5.jpg"
     },
     {
       "id": 6,
       "name": "Boring Girls",
       "author": "sara",
       "price": "355",
-      "image": "http://localhost:8090/book6.jpg"
+      "image": "book6.jpg"
     },
     {
       "id": 7,
       "name": "Stranded",
       "author": "Maclead",
       "price": "658",
-      "image": "http://localhost:8090/book7.jpg"
+      "image": "book7.jpg"
     },
     {
       "id": 8,
       "name": "The Beauty",
       "author": "Michele",
       "price": "368",
-      "image": "http://localhost:8090/book8.jpg"
+      "image": "book8.jpg"
     },
     {
       "id": 9,
       "name": "Unleash",
       "author": "Hanna",
       "price": "587",
-      "image": "http://localhost:8090/book9.jpg"
+      "image": "book9.jpg"
     },
     {
       "id": 10,
       "name": "Gatsby",
       "author": "F.Scott",
       "price": "375",
-      "image": "http://localhost:8090/book10.jpg"
+      "image": "book10.jpg"
     },
     {
       "id": 11,
       "name": "Nightingle",
       "author": "Sofiya",
       "price": "587",
-      "image": "http://localhost:8090/book11.jpg"
+      "image": "book11.jpg"
     },
     {
       "id": 12,
       "name": "Purple Color",
       "author": "Alice Walker",
       "price": "414",
-      "image": "http://localhost:8090/book12.jpg"
+      "image": "book12.jpg"
     },
     {
       "id": 13,
       "name": "Tales from wing",
       "author": "Jean",
       "price": "356",
-      "image": "http://localhost:8090/book13.jpg"
+      "image": "book13.jpg"
     },
     {
       "id": 14,
       "name": "Purple hibiscus",
       "author": "Chimemande",
       "price": "357",
-      "image": "http://localhost:8090/book14.jpg"
+      "image": "book14.jpg"
     },
     {
       "id": 15,
       "name": "Summer nights dream",
       "author": "William",
       "price": "254",
-      "image": "http://localhost:8090/book15.jpg"
+      "image": "book15.jpg"
     }
   ],
   "bookDetails": [
